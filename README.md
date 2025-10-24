@@ -1,3 +1,3 @@
 # demo
 This is just for practice
-by nikita
+by nikita pawar
